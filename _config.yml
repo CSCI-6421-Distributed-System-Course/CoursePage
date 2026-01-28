@@ -13,12 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "CSCI 6421 Distributed Systems - Sprint 2023"
+title: "CSCI 6421 Distributed Systems - Spring 2026"
 email: roozbeh@gwu.edu
 author: Roozbeh Haghnazar
 description: > # this means to ignore newlines until "baseurl:"
-  GW CSCI 6421 Sprint 2023.
-
+  GW CSCI 6421 Spring 2026.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "gwdistsys2023.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -35,8 +34,7 @@ plugins:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-- syllabus.md
-
+  - syllabus.md
 
 # google_analytics: UA-3114962-4
 
@@ -46,7 +44,6 @@ kramdown:
   input: GFM
   hard_wrap: true
   parse_block_html: true # needed to allow markdown inside <div> tags
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
