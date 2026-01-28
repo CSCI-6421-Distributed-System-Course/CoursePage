@@ -80,7 +80,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>01/29/2026
 		</td>
 		<td>
-			<a>Lecture Slides </a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -98,7 +98,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>02/05/2026
 		</td>
 		<td>
-			<a>Lecture Slides </a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -115,7 +115,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>02/12/2026
 		</td>
 		<td>
-			<a> Lecture Slides </a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -132,7 +132,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>02/19/2026
 		</td>
 		<td>
-			<a >Lecture Slides </a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -157,8 +157,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>02/26/2026
 		</td>
 		<td>
-			<a>Lecture Slides </a> <br> 
-			<a>Video</a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -175,7 +174,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>03/05/2026
 		</td>
 		<td>
-			<a>Lecture Slides </a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -193,7 +192,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>03/19/2026
 		</td>
 		<td>
-			<a>Lecture Slides </a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -210,8 +209,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>03/26/2026
 		</td>
 		<td>
-			<a>Lecture Slides </a> <br>
-			<a href="hw2/">HW2: Map Reduce</a> due --/-- <!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
+			Lecture Slides <br>
 		</td>
 	</tr>
 	<tr>
@@ -219,6 +217,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
+			<a href="hw2/">HW2: Map Reduce</a> due --/-- <br>
 			<a href="./readings.pdf">Readings in Chapter 7</a> <br>
 			<a href="./project/#milestone-3-design-document">Milestone 3: Design Document</a> --/--
 		</td>
@@ -237,7 +236,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>04/02/2026
 		</td>
 		<td>
-			<a"> Lecture Slides </a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -253,7 +252,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>04/09/2026
 		</td>
 		<td>
-			<a> Lecture Slides </a>
+			Lecture Slides
 		</td>
 	</tr>
 	<tr>
@@ -273,6 +272,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
+			<td>Work on your project! 
 			<!-- <a href="/project/#milestone-4-final-report">Milestone 4: Final Report</a> - 12/14 -- <a href="/hw3/">Bonus HW3: Leader Election</a> - 12/10-->
 		</td>
 	</tr>
