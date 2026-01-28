@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/CSCI-6421-Distributed-System-Course" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username: Distributed-System-Course
+github_username: CSCI-6421-Distributed-System-Course
 
 # destination: ./docs
 
