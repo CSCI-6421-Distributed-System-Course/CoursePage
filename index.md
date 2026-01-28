@@ -6,31 +6,26 @@
 		<li><b>Prof. Roozbeh Haghnazar</b></li>
 		<li><a href="mailto:roozbeh@gwu.edu">roozbeh@gwu.edu</a></li>
 		<li>Office Hours: Will be announced, check #office-hours</li>
-		<li>Section 10 & 11</li>
 	</ul>
 	</div>
 </div></div>
 
 > This course will be an in-depth study of the algorithmic and implementation challenges in building large scale distributed applications. Topics include distributed coordination, scheduling, consistency issues, and fault tolerance algorithms. The course will cover how fundamental distributed systems concepts are applied to cloud computing environments. The course will mix algorithmic concepts and practical implementations; substantial programming experience is required.
 
+## Announcements
 
-
-
-## Announcements ##
 - We will make decision about the exams in the first session
 - The [Final Project](./project/) Milestones will be announced.
 - If you have feedback for us, please [fill out this anonymous form!](https://forms.gle/RtEpSeaBDusf5gs56)
 - Check the [Syllabus](syllabus/) for more info.
-- Both sections 80 and 81 of CSCI 6421 will meet together *as one class*. You can register for either section with no difference. 
+- Both sections 80 and 81 of CSCI 6421 will meet together _as one class_. You can register for either section with no difference.
 - You can use use Python and Go to get your projects and assignments done.
-- We will use Distributed Systems 3rd edition (https://www.distributed-systems.net/index.php/books/ds3/) as the main reference. Also there are additional papers which are published in high ranked journals that you can find them in the slides each week. 
+- We will use Distributed Systems 3rd edition (https://www.distributed-systems.net/index.php/books/ds3/) as the main reference. Also there are additional papers which are published in high ranked journals that you can find them in the slides each week.
 - We use [Slack](https://distributedsystem2023.slack.com) to communicate and discuss about the topic, assignments and project.
-
-
 
 <hr>
 
-## Schedule  ##
+## Schedule
 
 All deadlines are 11:59PM Eastern Time
 
@@ -45,10 +40,10 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td style="width:20%">
 			<b>Overview</b>
-			<br>1/19/2023
+			<br>01/15/2026
 		</td>
 		<td>
-			<a href="./slides/1-introduction.pdf">Lecture Slides</a> -- 
+			<a href="./slides/1_Introduction.pdf">Lecture Slides</a> <br>
 			Please read <a href="project/">Final Project Instruction and Milestones</a>
 		</td>
 	</tr>
@@ -57,16 +52,16 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="https://gwdistsys2021.slack.com/join/signup#/domain-signup">Join Slack</a> today! -- <a href="https://forms.gle/e11quiWFicBK8gbf7">Student Survey</a> due Monday 9/6 
+			<a href="https://gwdistsys2021.slack.com/join/signup#/domain-signup">Join Slack</a> today! -- <a href="">Student Survey</a> due 02/28/2026
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<b>Scalable Execution</b>
-			<br>1/26/2023
+			<b>Processes Threads VMs Containers</b>
+			<br>01/22/2026
 		</td>
 		<td>
-			<a href="./slides/2-Processes_Threads.pdf">Lecture Slides </a>
+			<a href="./slides/2_Processes_Threads_VMs_Containers.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -80,7 +75,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Communication</b>
-			<br>2/02/2023
+			<br>01/29/2026
 		</td>
 		<td>
 			<a href="./slides/3-Communication.pdf">Lecture Slides </a>
@@ -97,7 +92,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Architectures</b>
-			<br>2/09/2023
+			<br>02/05/2026
 		</td>
 		<td>
 			<a href="./slides/4-Architectures.pdf">Lecture Slides </a>
@@ -114,7 +109,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Resource Management</b>
-			<br>2/16/2023
+			<br>02/12/2026
 		</td>
 		<td>
 			<a href="./slides/5-Scheduling and LB.pdf">Lecture Slides </a>
@@ -132,7 +127,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Resource Management 2</b>
-			<br>2/23/2023
+			<br>02/19/2026
 		</td>
 		<td>
 			<a href="./slides/6-Migration.pdf">Lecture Slides </a>
@@ -157,7 +152,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td style="width:20%">
 			<b>Clocks and Timing</b>
-			<br>3/02/2023
+			<br>02/26/2026
 		</td>
 		<td>
 			<a href="./slides/7-Timing-clocking.pdf">Lecture Slides </a> and <a href="https://youtu.be/IAI712Kk-O8">Video</a>
@@ -174,7 +169,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Distributed Coordination</b>
-			</br>3/09/2023
+			</br>03/05/2026
 		</td>
 		<td>
 			<a href="./slides/8-Coordination.pdf">Lecture Slides </a>
@@ -191,7 +186,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Fault Tolerance</b>
-			<br>3/23/2023
+			<br>03/19/2026
 		</td>
 		<td>
 			<a href="./slides/9-FaultTolerance.pdf">Lecture Slides </a>
@@ -208,7 +203,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Replication</b>
-			<br>3/30/2023
+			<br>03/26/2026
 		</td>
 		<td>
 			<a href="./slides/10-Consistency.pdf">Lecture Slides </a>   <a href="hw2/">HW2: Map Reduce</a> due 11/21 <!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
@@ -220,22 +215,6 @@ All deadlines are 11:59PM Eastern Time
 		</td>
 		<td>
 			<a href="./readings.pdf">Readings in Chapter 7</a> -- <a href="./project/#milestone-3-design-document">Milestone 3: Design Document</a> - 11/9
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<b>Midterm Exam</b>
-			<br>--------</td>
-		<td>
-			<a href="./sample-exam.pdf">Practice problems</a>
-		</td>
-	</tr>
-	<tr>
-		<td style="text-align:right">
-			<i>Tasks:</i>
-		</td>
-		<td>
-			Study!
 		</td>
 	</tr>
 </table>
