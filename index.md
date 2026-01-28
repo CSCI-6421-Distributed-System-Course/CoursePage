@@ -271,9 +271,7 @@ All deadlines are 11:59PM Eastern Time
 		<td style="text-align:right">
 			<i>Tasks:</i>
 		</td>
-		<td>
 			<td>Work on your project! 
-			<!-- <a href="/project/#milestone-4-final-report">Milestone 4: Final Report</a> - 12/14 -- <a href="/hw3/">Bonus HW3: Leader Election</a> - 12/10-->
 		</td>
 	</tr>
 	<tr>
