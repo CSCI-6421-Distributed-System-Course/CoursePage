@@ -19,9 +19,9 @@ author: Roozbeh Haghnazar
 description: > # this means to ignore newlines until "baseurl:"
   GW CSCI 6421 Spring 2026.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "gwdistsys2023.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/CSCI-6421-Distributed-System-Course" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username: gwDistSys2023
+github_username: Distributed-System-Course
 
 # destination: ./docs
 
