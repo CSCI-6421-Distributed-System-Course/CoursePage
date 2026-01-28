@@ -16,12 +16,12 @@
 
 - We will make decision about the exams in the first session
 - The [Final Project](./project/) Milestones will be announced.
-- If you have feedback for us, please [fill out this anonymous form!](https://forms.gle/RtEpSeaBDusf5gs56)
+- If you have feedback for us, please [fill out this anonymous form!]()
 - Check the [Syllabus](syllabus/) for more info.
 - Both sections 80 and 81 of CSCI 6421 will meet together _as one class_. You can register for either section with no difference.
 - You can use use Python and Go to get your projects and assignments done.
 - We will use Distributed Systems 3rd edition (https://www.distributed-systems.net/index.php/books/ds3/) as the main reference. Also there are additional papers which are published in high ranked journals that you can find them in the slides each week.
-- We use [Slack](https://distributedsystem2023.slack.com) to communicate and discuss about the topic, assignments and project.
+- We use [Slack](https://join.slack.com/t/distributedsy-6ln3567/shared_invite/zt-3o7kz2sj9-olnWALaxUjg2TJd4I1MGyg) to communicate and discuss about the topic, assignments and project.
 
 <hr>
 
@@ -49,10 +49,11 @@ All deadlines are 11:59PM Eastern Time
 	</tr>
 	<tr>
 		<td style="text-align:right">
-			<i>Tasks:</i>
+			<i>Tasks: </i>
 		</td>
 		<td>
-			<a href="https://gwdistsys2021.slack.com/join/signup#/domain-signup">Join Slack</a> today! -- <a href="">Student Survey</a> due 02/28/2026
+			<a href="https://join.slack.com/t/distributedsy-6ln3567/shared_invite/zt-3o7kz2sj9-olnWALaxUjg2TJd4I1MGyg">Join Slack</a> today! <br> 
+			<a>Student Survey</a> due --/--
 		</td>
 	</tr>
 	<tr>
@@ -69,7 +70,8 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<a href="./readings.html">Readings in Chapters 1, 3</a> -- Watch <a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">Azure HWaaS Video </a> -- <a href="hw1/"> HW1: Parallel Sum </a> due 9/17
+			<a href="./readings.html">Readings in Chapters 1, 3</a> <br>
+			Watch <a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">Azure HWaaS Video </a> -- <a href="hw1/"> HW1: Parallel Sum </a>
 		</td>
 	</tr>
 	<tr>
@@ -78,7 +80,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>01/29/2026
 		</td>
 		<td>
-			<a href="./slides/3-Communication.pdf">Lecture Slides </a>
+			<a>Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -86,7 +88,8 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<a href="./readings.pdf">Readings in Chapters 3, 4</a> -- Read <a href="http://research.google.com/archive/mapreduce-osdi04.pdf">MapReduce paper</a>
+			<a href="./readings.pdf">Readings in Chapters 3, 4</a> <br> 
+			Read <a href="http://research.google.com/archive/mapreduce-osdi04.pdf">MapReduce paper</a>
 		</td>
 	</tr>
 	<tr>
@@ -95,7 +98,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>02/05/2026
 		</td>
 		<td>
-			<a href="./slides/4-Architectures.pdf">Lecture Slides </a>
+			<a>Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -112,7 +115,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>02/12/2026
 		</td>
 		<td>
-			<a href="./slides/5-Scheduling and LB.pdf">Lecture Slides </a>
+			<a> Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -120,7 +123,6 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			 
 			<!--<a href="hw2/">HW2: Map Reduce</a> due 10/1, -10 points by 10/8 -- <a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a> -- <a href="/project/#milestone-1-select-a-topic">Milestone 1: Select a Topic</a> - 10/10-->
 		</td>
 	</tr>
@@ -130,7 +132,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>02/19/2026
 		</td>
 		<td>
-			<a href="./slides/6-Migration.pdf">Lecture Slides </a>
+			<a >Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -146,7 +148,7 @@ All deadlines are 11:59PM Eastern Time
 <table>
 	<thead>
 		<tr>
-			<th style="text-align:center" colspan="2">Part 2: Principles of Distributed Systems</th>
+			<th style="text-align:center" colspan="2"> Part 2: Principles of Distributed Systems</th>
 		</tr>
 	</thead>
 	<tr>
@@ -155,7 +157,8 @@ All deadlines are 11:59PM Eastern Time
 			<br>02/26/2026
 		</td>
 		<td>
-			<a href="./slides/7-Timing-clocking.pdf">Lecture Slides </a> and <a href="https://youtu.be/IAI712Kk-O8">Video</a>
+			<a>Lecture Slides </a> <br> 
+			<a>Video</a>
 		</td>
 	</tr>
 	<tr>
@@ -169,10 +172,10 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Distributed Coordination</b>
-			</br>03/05/2026
+			<br>03/05/2026
 		</td>
 		<td>
-			<a href="./slides/8-Coordination.pdf">Lecture Slides </a>
+			<a>Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -180,7 +183,8 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="./readings.pdf">Readings in Chapter 6</a> and <a href="hw2/">HW2: Map Reduce</a> due 3/30 -- <a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a>
+			<a href="./readings.pdf">Readings in Chapter 6</a> and <a href="hw2/">HW2: Map Reduce</a> due --/-- <br>
+			<a href="https://youtu.be/ZcaQ7yLAYwM">MapReduce Help Video</a>
 		</td>
 	</tr>
 	<tr>
@@ -189,7 +193,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>03/19/2026
 		</td>
 		<td>
-			<a href="./slides/9-FaultTolerance.pdf">Lecture Slides </a>
+			<a>Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -206,7 +210,8 @@ All deadlines are 11:59PM Eastern Time
 			<br>03/26/2026
 		</td>
 		<td>
-			<a href="./slides/10-Consistency.pdf">Lecture Slides </a>   <a href="hw2/">HW2: Map Reduce</a> due 11/21 <!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
+			<a>Lecture Slides </a> <br>
+			<a href="hw2/">HW2: Map Reduce</a> due --/-- <!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
 		</td>
 	</tr>
 	<tr>
@@ -214,7 +219,8 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="./readings.pdf">Readings in Chapter 7</a> -- <a href="./project/#milestone-3-design-document">Milestone 3: Design Document</a> - 11/9
+			<a href="./readings.pdf">Readings in Chapter 7</a> <br>
+			<a href="./project/#milestone-3-design-document">Milestone 3: Design Document</a> --/--
 		</td>
 	</tr>
 </table>
@@ -228,9 +234,10 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td style="width:20%">
 			<b>Performance Modeling</b>
-			<br>--------</td>
+			<br>04/02/2026
+		</td>
 		<td>
-			<a href="./slides/11-Performance.pdf"> Lecture Slides </a>
+			<a"> Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -243,10 +250,10 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Cloud Computing</b>
-			<br>--------
+			<br>04/09/2026
 		</td>
 		<td>
-			<a href="./slides/12-CloudApps.pdf"> Lecture Slides </a>
+			<a> Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -255,7 +262,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Internet of Things and Big Data</b>
-			<br>--------
+			<br>04/16/2026
 		</td>
 		<td>
 			Lecture Slides
@@ -267,6 +274,22 @@ All deadlines are 11:59PM Eastern Time
 		</td>
 		<td>
 			<!-- <a href="/project/#milestone-4-final-report">Milestone 4: Final Report</a> - 12/14 -- <a href="/hw3/">Bonus HW3: Leader Election</a> - 12/10-->
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>TBD</b>
+			<br>04/23/2026
+		</td>
+		<td>
+			Lecture Slides
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<i>Tasks:</i>
+		</td>
+			<td>Work on your project! 
 		</td>
 	</tr>
 </table>
