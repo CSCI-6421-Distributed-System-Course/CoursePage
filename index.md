@@ -80,7 +80,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>01/29/2026
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/3_Communication.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
