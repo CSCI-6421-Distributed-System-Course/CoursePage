@@ -115,7 +115,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>02/12/2026
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/5_SchedulingAndLoadBalances.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
