@@ -132,7 +132,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>02/19/2026
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/5_SchedulingAndLoadBalances.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -157,7 +157,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>02/26/2026
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/7_TimingAndCoordination.pptx">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -174,7 +174,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>03/05/2026
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/7_TimingAndCoordination.pptx">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
