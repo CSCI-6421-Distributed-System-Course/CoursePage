@@ -192,7 +192,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>03/19/2026
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/9_FaultTolerance.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
