@@ -209,7 +209,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>03/26/2026
 		</td>
 		<td>
-			Lecture Slides <br>
+			<a href="./slides/10_Consistency.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -236,7 +236,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>04/02/2026
 		</td>
 		<td>
-			Lecture Slides
+			<a href="./slides/11_Performance.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -264,23 +264,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>04/16/2026
 		</td>
 		<td>
-			Lecture Slides
-		</td>
-	</tr>
-	<tr>
-		<td style="text-align:right">
-			<i>Tasks:</i>
-		</td>
-			<td>Work on your project! 
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<b>TBD</b>
-			<br>04/23/2026
-		</td>
-		<td>
-			Lecture Slides
+			<a href="./slides/13_BigDataAndMlInDistributedSystems.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
